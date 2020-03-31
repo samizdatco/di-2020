@@ -8,8 +8,8 @@
 ## Student Work
 | Projects | Code |
 | ------- | ---------- |
-| [Shirley Chen](https://di.samizdat.co/2020/work/…) | [@…](https://github.com/…/di-2020) |
-| [Penny Fan](https://di.samizdat.co/2020/work/…) | [@…](https://github.com/…/di-2020) |
-| [Benjamin Kim](https://di.samizdat.co/2020/work/…) | [@…](https://github.com/…/di-2020) |
-| [Sherry Wang](https://di.samizdat.co/2020/work/…) | [@…](https://github.com/…/di-2020) |
-| [Alexis Zheng](https://di.samizdat.co/2020/work/…) | [@…](https://github.com/…/di-2020) |
+| [Shirley Chen](https://di.samizdat.co/2020/work/schen296) | [@schen296](https://github.com/schen296/di-2020) |
+| [Penny Fan](https://di.samizdat.co/2020/work/pennyff) | [@pennyff](https://github.com/pennyff/di-2020) |
+| [Benjamin Kim](https://di.samizdat.co/2020/work/benji0624) | [@benji0624](https://github.com/benji0624/di-2020) |
+| [Sherry Wang](https://di.samizdat.co/2020/work/shuiiyun) | [@shuiiyun](https://github.com/shuiiyun/di-2020) |
+| [Alexis Zheng](https://di.samizdat.co/2020/work/AlexisZheng) | [@AlexisZheng](https://github.com/AlexisZheng/di-2020) |
